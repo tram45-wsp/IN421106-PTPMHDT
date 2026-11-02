@@ -31,3 +31,4 @@ Không sửa 4 test có sẵn.
 ## Quy ước nộp bài
 - Làm trên nhánh riêng (ví dụ `feature/ch03-skeleton`), commit theo Conventional Commits: `feat(club): ...`, `test(club): ...`.
 - Tạo Pull Request về `main`, mô tả đủ what, why, how to test.
+Hoàn thành
